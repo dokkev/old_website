@@ -14,21 +14,21 @@ permalink: /about
 [Github](https://github.com/dokkev)
 
 ### Education
-
+- PhD in Mechanical Engineering, University of Texas at Austin, 2022 - Current
 - MS in Robotics, Northwestern University, 2021
 - BS in Mechanical Engineering, Saint Louis University, 2020
 
 ## About Me
 
-Hello! My name is Dongho Kang (DK), and I am a full-stack robotician.
-During my time at Northwestern University, I focused my research topics on whisker-based tactile sensing, manipulation, and robotic perception.
+Hello! My name is Dongho Kang (DK), and I am a full-stack robotician. I am a PhD Student at University of Texas at Austin starting in Fall 2022.
 
+During my time at Northwestern University, I focused my research topics on whisker-based tactile sensing, manipulation, and robotic perception.
 My big interest in robotics comes in developing robots and sensors inspired from animals. My final project [Whisker-based Tactile Sensing and Classification](https://dokkev.github.io/Whisker/) at Northwestern focuses on understanding and quantativelt interpreting three-dimensional dynamic data that a rat obtains through whisking over different shapes of objects in a simulation. Rats use whiskers to navigate through holes and find open space. As they scan, their whiskers make unexpected contact with an object, and the rat then explores the object to extract the details of its shape. The use of whisker inputs to detect, localize, and extract the spatial properties of objects. These unique features allow rats to operate in complete darkness<sup>1</sup>, and I hope to integrate these features into robotics research for robotic navigation.
 
 My [Autonomous Fire Fighter Robot Arm](https://dokkev.github.io/firefigther-robot/) project aims integrating a fire safety feature to a common robotic arm manipulator that can be widely used in various settings such as warehouses, garages, and houses. I believe that making robots cope with emergency situations like fire is an important step for robots to operate and cooperate with humans in our daily lives. I believe that robotic perception 
 
 ### Research Interests
-I hope to pursue a Ph.D. to investigate dexterous robotic manipulation after my Master studies. 
+I hope to pursue a Ph.D. to investigate dexterous robotic manipulation 
 
 <strong>Adaptive Grasping with Dynamic Tactile Sensing</strong>
 While fast-adapting mechanoreceptors enable humans to identify contact events such as object slippage, dynamic tactile sensing systems provide essential information for robots to perform dexterous manipulation. Therefore, I would like to research distributed dynamic tactile sensing system designs to imitate Meissner and Pacinian corpuscles. I am particularly interested in utilizing fiber-based transducers. While they satisfy dynamic tactile sensors’ design principles with their flexibility and high sensitivity, they are also capable of multiplexing and light. I hope to investigate and compare the performances of different types of dynamic tactile sensor design, such as piezoelectric, capacitive, and magnetic sensors in different environments during my doctoral studies.
