@@ -27,7 +27,7 @@ My big interest in robotics comes in developing robots and sensors inspired from
 
 My [Autonomous Fire Fighter Robot Arm](https://dokkev.github.io/firefigther-robot/) project aims integrating a fire safety feature to a common robotic arm manipulator that can be widely used in various settings such as warehouses, garages, and houses. I believe that making robots cope with emergency situations like fire is an important step for robots to operate and cooperate with humans in our daily lives. I believe that robotic perception 
 
-### Research Interests
+<!-- ### Research Interests
 I hope to pursue a Ph.D. to investigate dexterous robotic manipulation 
 
 <strong>Adaptive Grasping with Dynamic Tactile Sensing</strong>
@@ -40,7 +40,7 @@ The sense of touch and vision work together as parts of a multimodal system as h
 Implementing stereognosis in soft robotics requires both proprioception and tactile sensing simultaneously, while stretchable, resilient, durable, and multimodal sensor design is challenging but crucial. Stereognostic sensing enhances locomotion and manipulation performance by the distribution of strain to prevent mechanical failure. I hope to implement and improve flexible and durable proprioception and tactile sensing systems that can classify mechanical cues during my Ph.D. In addition, there have not been many studies on data interpretation of soft robotic sensing, and they are often oversimplified despite the complexity of the shape reconstruction \cite{ml}. I hope to research advanced data processing algorithms with machine learning to achieve accurate proprioception of soft robots. 
 
 <strong>Sensory Feedback Control with Machine Learning.</strong>
-While conventional rigid robots utilize motor controls on their joints, soft robots face challenges in accurate analytic modeling due to complex behaviors such as nonlinearity, deformation, and hysteresis \cite{soft}. I believe that data-driven controllers which utilize sensory information can be enhanced with machine learning to solve non-linear problems. With proper stereognostic sensing, I believe it is sufficient to implement deep learning algorithms to estimate inverse kinematic solutions for 3D motion. Combined with tactile sensing feedback, I hope to implement a closed-loop control system to improve actuation accuracy. Moreover, I would like to investigate a reinforcement learning approach for optimal control for electrically-driven soft actuators.  
+While conventional rigid robots utilize motor controls on their joints, soft robots face challenges in accurate analytic modeling due to complex behaviors such as nonlinearity, deformation, and hysteresis \cite{soft}. I believe that data-driven controllers which utilize sensory information can be enhanced with machine learning to solve non-linear problems. With proper stereognostic sensing, I believe it is sufficient to implement deep learning algorithms to estimate inverse kinematic solutions for 3D motion. Combined with tactile sensing feedback, I hope to implement a closed-loop control system to improve actuation accuracy. Moreover, I would like to investigate a reinforcement learning approach for optimal control for electrically-driven soft actuators.   -->
 
 
 
