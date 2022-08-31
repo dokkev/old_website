@@ -20,7 +20,7 @@ authors:
     avatar: 'img/dkprofile.jpg'
     email: dhk6869@gmail.com
     web: https://dokkev.github.io/about
-    description: "Robotician at Northwestern University"
+    description: "Robotician at UT Austin"
 # Plugins
 plugins:
   - jekyll-paginate
