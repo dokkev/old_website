@@ -24,8 +24,8 @@ Hello! My name is Dongho Kang (DK), and I am a full-stack robotician. I am a PhD
 I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/)
 
 ### Current Research Topics
+ - Visuotactile Perception 
  - Human Centered Robotic Sensing & Navigation
- - Active Sensing and Learning of Robots
  - Biomimetic Robotic Systems
 
 
