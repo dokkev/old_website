@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Characterization of Gentleness in Surgical Tasks
-image: img/demo.gif
-tags: [C++, DQN, Whikser, Rat, Simulation, Tensorflow]
+image: img/gentle_title.gif
+tags: [Hand Tracking, Image Recognition, Depth Imaging, Motion Analysis, Surgery]
 featured: true
-hidden: true
+hidden: false
 author: dk
 ---
 
@@ -34,4 +34,8 @@ These results show quantitative differences in the surgical
 dexterity of the participants. Furthermore, this study sets a
 general framework for a quantitative analysis of gentleness
 during anastomosis procedures
+
+
+Keywords:[Hand Tracking, Image Recognition, Depth Imaging, Motion Analysis, Surgery]
+
 
