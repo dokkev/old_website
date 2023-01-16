@@ -39,3 +39,5 @@ during anastomosis procedures
 Keywords:[Hand Tracking, Image Recognition, Depth Imaging, Motion Analysis, Surgery]
 
 
+
+
