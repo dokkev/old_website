@@ -3,7 +3,7 @@ layout: post
 title: Characterization of Gentleness in Surgical Tasks
 image: img/gentle_title.gif
 tags: [Hand Tracking, Image Recognition, Depth Imaging, Motion Analysis, Surgery]
-featured: true
+featured: false
 hidden: false
 author: dk
 ---
