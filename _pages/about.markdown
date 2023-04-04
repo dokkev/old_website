@@ -10,7 +10,7 @@ permalink: /about
 
 ### Contact
 
-[E-Mail](mailto:dhk6869@gmail.com)
+[E-Mail](mailto:dongho@utexas.edu)
 [Github](https://github.com/dokkev)
 
 ### Education
@@ -20,8 +20,8 @@ permalink: /about
  
 ## About Me
 
-Hello! My name is Dongho Kang (DK), and I am a full-stack robotician. I am a PhD Student at University of Texas at Austin starting in Fall 2022.
-I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/) and ][Human-Enabled Robotic Technology Lab](https://sites.utexas.edu/herolab/)
+Hello! My name is Dongho Kang (DK), and I am a full-stack robotician. I am a PhD Student at University of Texas at Austin.
+I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/) and [Human-Enabled Robotic Technology Lab](https://sites.utexas.edu/herolab/)
 
 
 ### Current Research Topics
