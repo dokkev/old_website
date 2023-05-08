@@ -7,3 +7,11 @@ hidden: false
 author: dk
 ---
 This project aims simulating a humanoid robot's walking and balancing using Whole Body Control (WBC) and Divergent Component of Motion (DCM) planner using URDF models of Boston Dynamics' ATLAS in PyBullet enviroment. This project was implemented from PyPnC (https://github.com/junhyeokahn/PyPnC) as a part of The Unversity of Texas as Austin's Design and Control of Human Centered Robotics (ASE389) course.
+
+
+# Introduction: Humanoid Modeling under Multi-Contact Constraints
+Challenges in humanoid robot involve high dimensionality, underactuation, and operation under geometrical and multi-contact constraints. A humanoid robot’s behavior is determined by not only the dispalcements of its articulated joints, but also interactions of its bodies in contact.
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/kinematic_model.png" alt="model">
+</div>
