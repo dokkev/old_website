@@ -1,6 +1,6 @@
 layout: post
 title: Humanoid Robot Walking and Balancing
-image: img/rat_nav.gif
+image: img/humanoid.gif
 tags: [Humanoid, WBC, DCM, ATLAS , PyBullet]
 featured: true
 hidden: false
