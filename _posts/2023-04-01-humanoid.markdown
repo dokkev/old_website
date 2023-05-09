@@ -94,3 +94,31 @@ The cost function is a quadratic function of joint acceleration and reaction for
 <div class="post-flex-display">
     <img src="/img/humanoid/balance.gif" alt="balance">
 </div>
+
+*Figure 6: Humanoid balancing with WBC*
+
+# DCM Planner: Trajectory Generation
+While DCM is a quantity in Cartesian space that is related to the COM position and velocity, DCM Planner generates walking pattern using virtual repellent point (VRP) which is a point in Cartesian space that encodes both direction and magnitude of the external forces acting on the robot. 
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/dcm.png" alt="dcm">
+</div>
+
+*Figure 7: DCM and VRP: COM tends to covnerge to DCM while VRP repel DCM*
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/dcm1.png" alt="dcm1">
+</div>
+<div class="post-flex-display">
+    <img src="/img/humanoid/dcm2.png" alt="dcm2">
+</div>
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/dcm3.png" alt="dcm3">
+</div>
+
+*Figure 8: Forward Walking Trajectory (Top) and Backward Walking Trajectory (Bottom)*
+
+# Foward, Backward, and Sideway Walking
+
+[![Watch the video](https://img.youtube.com/vi/Z7ltbP7t3zI/default.jpg)](https://youtu.be/Z7ltbP7t3zI)
