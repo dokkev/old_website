@@ -121,4 +121,5 @@ While DCM is a quantity in Cartesian space that is related to the COM position a
 
 # Foward, Backward, and Sideway Walking
 
-[![Watch the video](https://img.youtube.com/vi/Z7ltbP7t3zI/default.jpg)](https://youtu.be/Z7ltbP7t3zI)
+[![Watch the video](https://img.youtube.com/vi/Z7ltbP7t3zI/0.jpg)](https://youtu.be/Z7ltbP7t3zI)
+*Click to watch the video*
