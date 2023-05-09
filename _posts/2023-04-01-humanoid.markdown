@@ -19,7 +19,7 @@ Challenges in humanoid robot involve high dimensionality, underactuation, and op
 
 *Figure 1: Kinematic representation of a humanoid robot The free moving base is represented as a virtual spherical joint in series with three prismatic virtual joints. Reaction forces appear at the contact points due to gravity forces pushing the body against the ground. Contact constraints are expressed as rigid constraints with zero velocities and accelerations at the supporting bodies [1].*
 
-The equation of motion which is subjected to acutation torques and external forces can be derived using Euler-Lagrange equation
+The equation of motion (EOM) which is subjected to acutation torques and external forces can be derived using Euler-Lagrange equation
 
 <div class="post-flex-display">
     <img src="/img/humanoid/eq1.png" alt="eq1">
@@ -32,4 +32,37 @@ The equation of motion which is subjected to acutation torques and external forc
 where A is the (n + 6) × (n + 6) inertia matrix, b and g are (n + 6) × 1 vectors of Coriolis/centrifugal and gravity forces.
 For more detail, refer to [Compliant Control of Whole-Body Multi-Contact Behaviors in Humanoid Robots](http://sites.utexas.edu/hcrl/files/2016/01/book-chapter-springer.pdf)
 
-#
+# Joint Space Control, Operational Space Control, and Whole Body Control
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/arm.png" alt="arm">
+</div>
+
+*Figure 2: A 3-link planar robot arm*
+
+EOM above can be developed into different control schemes, and they can be shown with a simple 3-link planar robot arm which is more intuitive than a complex humanoid robot to explore features of each control scheme.
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/jpos.jpg" alt="jpos">
+</div>
+
+*Figure 3: Joint Space Control with PD Controller*
+
+Firstly, joint space control takes desired joint configuration as an input and outputs joint torques with feedback control.
+
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/osc.jpg" alt="osc">
+</div>
+
+*Figure 4: Operational Space Control with PD Controller*
+
+Secondly, operational space control takes control the end-effector's motion in the task space by controlling the forces and torques in the control space. Operational space control is more high-level and task-specific control as it enables the specification of desired end-effector behaviors in the task space, rather than specifying joint angles or velocities in the control space.
+
+<div class="post-flex-display">
+    <img src="/img/humanoid/wbc.jpg" alt="wbc">
+</div>
+
+*Figure 5: Priortized Whole Body Control (Task and Posture Control)*
+
+Finally, prioritzed whole body control can perform two tasks which conflict with each other. Figure 5 shows the desired joint configuration as [0,0,0] (task: x2) which configures the robot strech in a straight line while attempting to achieve the desired end-effector orientation as pi/4 (task: x1) which is not feasible with the desired joint configuration at [0,0,0]. Priortized whole body control law can set a higher priority of task x1 over task x2. In this case, the robot achieves the desired end-effector orientation while trying to minimize the error in the desired joint configuration. This control law ensures accomplishment of critical tasks over sub-tasks, and it enables whole-body compliant behaviors and exploit the redundancy of humanoids under geometric and contact constraints.
