@@ -29,6 +29,10 @@ I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/)
  - Human Centered Robotic Sensing & Navigation
  - Biomimetic Robotic Systems
 
+### Current Research
+Human integrates the sense of vision and touch to perceive the world allowing us to extract tactile information from vison and visualize geometric features from touch. This sophiscated multimodality is achieved by learning as an infant develops visuotactile coordination through haptic exploration such as grasping during first 12 months. Yet, robotic perception is in its infancy compared to human sensory, perceptual, and cognitive systems. Despite spectacular progess of tactile sensing technology such as biomimetic tactile sensors inspired from skin in this past decade, connecting tactile perception and vision in robotics to implement mulitimodality is still a challenge, and I hope to investigate this topic in my doctoral studies. 
+
+
 
 ### Past Research
 
@@ -38,9 +42,6 @@ My big interest in robotics comes in developing robots and sensors inspired from
 In neuroscience, we wonder how rats process the mechanosenosry input to determine their actions during active sensing. A rat tends to bring its snout to the object as close as possible while ensuring whiskers contact the object symmetrically, and this project provides reinforcement learnings models that mimic a rat's active sensing behaviors to investiage the coordinate transformation from the whisker frame to the haed frame through evaulating  the weights of each whisker to neurons in the input layer in neural networks of reinforcement learning models.
 
 My [Autonomous Fire Fighter Robot Arm](https://dokkev.github.io/firefigther-robot/) project aims integrating a fire safety feature to a common robotic arm manipulator that can be widely used in various settings such as warehouses, garages, and houses. I believe that making robots cope with emergency situations like fire is an important step for robots to operate and cooperate with humans in our daily lives.
-
-### Current Research
-Human integrates the sense of vision and touch to perceive the world allowing us to extract tactile information from vison and visualize geometric features from touch. This sophiscated multimodality is achieved by learning as an infant develops visuotactile coordination through haptic exploration such as grasping during first 12 months. Yet, robotic perception is in its infancy compared to human sensory, perceptual, and cognitive systems. Despite spectacular progess of tactile sensing technology such as biomimetic tactile sensors inspired from skin in this past decade, connecting tactile perception and computer vision in robotics to implement mulitimodality is still a challenge, and I hope to investigate this topic in my doctoral studies. 
 
 
 
