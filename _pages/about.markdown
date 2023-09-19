@@ -20,17 +20,17 @@ permalink: /about
  
 ## About Me
 
-Hello! My name is Dongho Kang (DK), and I am a full-stack robotician. I am a PhD Student at University of Texas at Austin.
-I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/) and [Human-Enabled Robotic Technology Lab](https://sites.utexas.edu/herolab/)
+Hello! My name is Dongho Kang (DK), and I am a full-stack robotician. I am a Ph.D. Student at the University of Texas at Austin.
+I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/). 
+
 
 
 ### Current Research Topics
- - Visuotactile Perception 
- - Human Centered Robotic Sensing & Navigation
- - Biomimetic Robotic Systems
+ - Dexterous Manipulation of Underactuated Robotic Hand
+ - Visuohaptic Perception of Robotic System
+ - Human-Centered Robotic Sensing & Navigation
 
-### Current Research
-Human integrates the sense of vision and touch to perceive the world allowing us to extract tactile information from vison and visualize geometric features from touch. This sophiscated multimodality is achieved by learning as an infant develops visuotactile coordination through haptic exploration such as grasping during first 12 months. Yet, robotic perception is in its infancy compared to human sensory, perceptual, and cognitive systems. Despite spectacular progess of tactile sensing technology such as biomimetic tactile sensors inspired from skin in this past decade, connecting tactile perception and vision in robotics to implement mulitimodality is still a challenge, and I hope to investigate this topic in my doctoral studies. 
+
 
 
 
