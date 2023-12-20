@@ -26,10 +26,9 @@ I am a part of the [Human Centered Robotics Lab](https://sites.utexas.edu/hcrl/)
 
 
 ### Current Research Topics
- - Dexterous Manipulation of Underactuated Robotic Hand
- - Visuohaptic Perception of Robotic System
- - Human-Centered Robotic Sensing & Navigation
-
+ - Dexterous Manipulation of Biomimetic Robotic Systems
+ - Whole-Body Locomanipulation of Humanoid Robots
+ - Human-Centered Robotic Perception & Navigation
 
 
 
