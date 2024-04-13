@@ -29,12 +29,12 @@ Collection of useful resources for learning robotics.
 
 ### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
--  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
-  -[Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on Youtube
+	-  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
+[Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on Youtube
 
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
-  -[Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on Youtube
+	-[Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on Youtube
 - [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
 
 # Robot Perception and Navigation Courses
