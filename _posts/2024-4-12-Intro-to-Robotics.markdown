@@ -48,6 +48,7 @@ Collection of useful resources for learning robotics.
 
 ### Computer Vision
 - [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
+
 ### SLAM
 - [Robot Mapping](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1)by Cyrill Stachniss at University of Bonn
 
