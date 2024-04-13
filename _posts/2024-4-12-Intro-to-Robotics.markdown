@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Leraning Robotics
+title:  Learning Robotics
 image:  img/darwinop.jpeg
 tags:   [robotics, learning robotics, robotics resources, robotics 101]
 author: dk
