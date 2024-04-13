@@ -51,7 +51,7 @@ Collection of useful resources for learning robotics.
 # ROS
 
 ### Basics of ROS 2
-ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
+- [ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 - [Official ROS 2 Tutorials](https://docs.ros.org/en/iron/Tutorials.html)
 - [ROS 2 Tutorials](https://articulatedrobotics.xyz/page4/) by [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
 - [URDF](https://industrial-training-master.readthedocs.io/en/melodic/_source/session3/Intro-to-URDF.html)
