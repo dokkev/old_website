@@ -14,11 +14,10 @@ Collection of useful resources for learning robotics.
 
 
 # Fundamental Robotics Concepts
-### Quaternions
+### Robot Configuration
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
 - [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
 - [Explaining Gibmal Lock](https://www.youtube.com/watch?v=zc8b2Jo7mno)
-### Robot Configuration
 - [Configuration Space](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=6)
 - [Task Space and Workspace](https://www.youtube.com/watch?v=hTuW51CpUg4&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=9)
 - [Twist](https://www.youtube.com/watch?v=mvGZtO_ruj0&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=17)
@@ -44,6 +43,15 @@ Collection of useful resources for learning robotics.
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
 - [Inverse Dynamics](https://www.youtube.com/watch?v=ZASVKAlegfQ)
+### Machine Learning
+- [Residual and Least Squares Regression](https://www.youtube.com/watch?v=yMgFHbjbAW8)
+- [Neural Network](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
+- [Gradient Descent](https://www.youtube.com/watch?v=EKbFIWANwHw)
+- [Graident Descent in Deep Learning](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
+- [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk)
+- [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
+- [Transformer (1)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
+- [Transformer (2)](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
 
 
 # Robot Operating System (ROS)
